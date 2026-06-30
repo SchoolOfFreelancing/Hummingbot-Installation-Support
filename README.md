@@ -36,6 +36,7 @@ Professional setup, configuration, and deployment of Hummingbot for automated cr
 - AI/LLM API hooks (e.g., Anthropic/OpenAI) for trade summary reports or anomaly alerts
 
 ### 6. Security & Monitoring
+- Secure Connection via Tailscale
 - Encrypted key storage (Hummingbot's built-in encryption)
 - Environment variable / secrets management
 - Uptime monitoring and alerting setup
